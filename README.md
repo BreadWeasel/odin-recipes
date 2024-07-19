@@ -5,3 +5,5 @@ This is my project as part of the Odin Project's "Project: Recipes" assignment.
 * HTML Basics
 * HTML Lists
 * HTML Links and Images
+
+Recipes and Images were used from [All Recipes](https://www.allrecipes.com)

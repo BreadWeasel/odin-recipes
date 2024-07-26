@@ -1,0 +1,37 @@
+body
+{
+    background-color:blueviolet;
+}
+
+body.recipebody
+{
+    color:aqua;
+}
+
+h1.indexpage
+{
+    color:darkturquoise;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: fantasy, sans-serif;
+    text-align: center;
+}
+
+h1.recipe
+{
+    color: cyan;
+}
+
+.indexlink
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color:cadetblue;
+}
+
+.proportionedimage
+{
+    height: auto;
+    width: auto;
+}
+

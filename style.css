@@ -20,6 +20,7 @@ h1.indexpage
 h1.recipe
 {
     color: cyan;
+    text-align: center;
 }
 
 .indexlink
@@ -29,9 +30,37 @@ h1.recipe
     color:cadetblue;
 }
 
-.proportionedimage
+.indexlistdiv
 {
-    height: auto;
-    width: auto;
+    background-color: rgba(0, 255, 255, 0.034);
+    text-align: center;
 }
 
+.indexlist
+{
+    display: inline-block;
+    text-align: left;
+}
+
+.picture
+{
+    text-align: center;
+}
+
+
+.recipecontent
+{
+    text-align: center;
+}
+
+.recipeingredients
+{
+    display: inline-block;
+    text-align: left;
+}
+
+.recipesteps
+{
+    display: inline-block;
+    text-align: left;
+}
